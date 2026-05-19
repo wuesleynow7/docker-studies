@@ -33,3 +33,7 @@ Aprender:
 - Deploy
 - Containers
 - DevOps básico
+
+## 📌 Status do projeto
+
+🚧 Em desenvolvimento 🚧
