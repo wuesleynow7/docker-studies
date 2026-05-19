@@ -24,10 +24,6 @@ Repositório criado para estudar Docker na prática.
 
 # Projetos Dockerizados
 
-| Projeto | Tecnologias |
-|----------|-------------|
-| Task App | React + Node + PostgreSQL |
-| Blog API | Node + MongoDB |
 
 # Objetivo
 
